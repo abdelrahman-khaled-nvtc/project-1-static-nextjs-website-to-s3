@@ -1,11 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Spencer Sharp",
+    "title": "Abdelrahman Sharp",
     "feed_url": "undefined/rss/feed.json",
     "description": "Your blog description",
     "icon": "undefined/favicon.ico",
     "author": {
-        "name": "Spencer Sharp"
+        "name": "Abdelrahman Sharp"
     },
     "items": [
         {
@@ -16,7 +16,7 @@
             "summary": "Most companies try to stay ahead of the curve when it comes to visual design, but for Planetaria we needed to create a brand that would still inspire us 100 years from now when humanity has spread across our entire solar system.",
             "date_modified": "2022-09-05T00:00:00.000Z",
             "author": {
-                "name": "Spencer Sharp"
+                "name": "Abdelrahman Sharp"
             }
         },
         {
@@ -27,7 +27,7 @@
             "summary": "When you’re building a website for a company as ambitious as Planetaria, you need to make an impression. I wanted people to visit our website and see animations that looked more realistic than reality itself.",
             "date_modified": "2022-09-02T00:00:00.000Z",
             "author": {
-                "name": "Spencer Sharp"
+                "name": "Abdelrahman Sharp"
             }
         },
         {
@@ -38,7 +38,7 @@
             "summary": "When we released the first version of cosmOS last year, it was written in Go. Go is a wonderful programming language, but it’s been a while since I’ve seen an article on the front page of Hacker News about rewriting some important tool in Go and I see articles on there about rewriting things in Rust every single week.",
             "date_modified": "2022-07-14T00:00:00.000Z",
             "author": {
-                "name": "Spencer Sharp"
+                "name": "Abdelrahman Sharp"
             }
         }
     ]

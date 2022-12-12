@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Spencer Sharp</title>
+        <title>Abdelrahman Sharp</title>
         <link>undefined</link>
         <description>Your blog description</description>
         <lastBuildDate>Mon, 12 Dec 2022 06:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
-            <title>Spencer Sharp</title>
+            <title>Abdelrahman Sharp</title>
             <url>undefined/favicon.ico</url>
             <link>undefined</link>
         </image>
@@ -78,7 +78,7 @@ ars talis.</p>
 <p>Sit volat naturam; motu Cancri. Erat pro simul quae valuit quoque timorem quam
 proelia: illo patrio <em>esse summus</em>, enim sua serpentibus, Hyleusque. Est coniuge
 recuso; refert Coroniden ignotos manat, adfectu.</p>]]></content:encoded>
-            <author>spencer@planetaria.tech (Spencer Sharp)</author>
+            <author>Abdelrahman@planetaria.tech (Abdelrahman Sharp)</author>
         </item>
         <item>
             <title><![CDATA[Introducing Animaginary: High performance web animations]]></title>
@@ -160,7 +160,7 @@ ars talis.</p>
 <p>Sit volat naturam; motu Cancri. Erat pro simul quae valuit quoque timorem quam
 proelia: illo patrio <em>esse summus</em>, enim sua serpentibus, Hyleusque. Est coniuge
 recuso; refert Coroniden ignotos manat, adfectu.</p>]]></content:encoded>
-            <author>spencer@planetaria.tech (Spencer Sharp)</author>
+            <author>Abdelrahman@planetaria.tech (Abdelrahman Sharp)</author>
         </item>
         <item>
             <title><![CDATA[Rewriting the cosmOS kernel in Rust]]></title>
@@ -238,7 +238,7 @@ ars talis.</p>
 <p>Sit volat naturam; motu Cancri. Erat pro simul quae valuit quoque timorem quam
 proelia: illo patrio <em>esse summus</em>, enim sua serpentibus, Hyleusque. Est coniuge
 recuso; refert Coroniden ignotos manat, adfectu.</p>]]></content:encoded>
-            <author>spencer@planetaria.tech (Spencer Sharp)</author>
+            <author>Abdelrahman@planetaria.tech (Abdelrahman Sharp)</author>
         </item>
     </channel>
 </rss>
