@@ -251,7 +251,7 @@ export default function Home({ articles }) {
     <>
       <Head>
         <title>
-          Abdelrahman Khaled - Software designer, founder, and amateur astronaut
+          Abdelrahman Khaled - Software designer, founder, and I am teaching 11.CCP Class at NVTC.
         </title>
         <meta
           name="description"
